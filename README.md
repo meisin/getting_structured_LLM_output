@@ -1,1 +1,3 @@
-# getting_structured_LLM_output
+# Getting Structured LLM Output
+
+This is a DeepLearning.ai course.
